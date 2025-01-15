@@ -31,7 +31,7 @@ The pre-processing workflow is divided into three steps:
 ### References  
 
 - **IWFM Engine:** [Integrated Water Flow Model (IWFM)](https://data.ca.gov/dataset/integrated-water-flow-model-iwfm)  
-- **C2VSimFG Version 1.5:** [C2VSimFG Dataset](https://data.cnra.ca.gov/dataset/c2vsimfg)  
+- **C2VSimFG Version 1.5:** C2VSimFG v1.5 Central Valley Integrated SW-GW Flow Model [C2VSimFG Dataset](https://data.cnra.ca.gov/dataset/c2vsimfg)  
 
 ### Applications  
 
