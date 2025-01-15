@@ -8,7 +8,7 @@ This repository provides Python tools for both **post-processing** and **pre-pro
    A Jupyter Notebook for visualizing aquifer layering parameters and subsidence data from the C2VSimFG model.  
 
 2. **`Interbeds_thickness_C2VSimFG1.5_analysis.ipynb`**  
-   A script designed to analyze and post-process interbed thickness data in the C2VSimFG v1.5 Central Valley Integrated SW-GW Flow Model.
+   A script designed to analyze and post-process interbed thickness data in the C2VSimFG v1.5 California Central Valley Basin Integrated SW-GW Flow Regional Model.
 
 ### Pre-Processing Script
 
@@ -31,7 +31,7 @@ The pre-processing workflow is divided into three steps:
 ### References  
 
 - **IWFM Engine:** [Integrated Water Flow Model (IWFM)](https://data.ca.gov/dataset/integrated-water-flow-model-iwfm)  
-- **C2VSimFG Version 1.5:** Central Valley Integrated SW-GW Flow Model [C2VSimFG Dataset](https://data.cnra.ca.gov/dataset/c2vsimfg)  
+- **C2VSimFG Version 1.5:** California Central Valley Basin Integrated SW-GW Flow Regional Model [C2VSimFG Dataset](https://data.cnra.ca.gov/dataset/c2vsimfg)  
 
 ### Applications  
 
